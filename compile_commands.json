@@ -1,0 +1,26 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "stetris",
+      "src/board.cpp"
+    ],
+    "directory": "/home/seweryn/dev/projects/stetris",
+    "file": "/home/seweryn/dev/projects/stetris/src/board.cpp",
+    "output": "/home/seweryn/dev/projects/stetris/stetris"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "stetris",
+      "src/main.cpp"
+    ],
+    "directory": "/home/seweryn/dev/projects/stetris",
+    "file": "/home/seweryn/dev/projects/stetris/src/main.cpp",
+    "output": "/home/seweryn/dev/projects/stetris/stetris"
+  }
+]
