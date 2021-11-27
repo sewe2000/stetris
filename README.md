@@ -9,7 +9,18 @@ Simple Tetris clone written in C++ using SFML. The game has been tested only on 
 + SFML library: https://github.com/SFML/SFML
 + GNU make
 
-# Installation instructions for GNU/Linux
+# Installation instructions 
+1. Clone this repo or download source from the release page
+```bash
+$ git clone https://github.com/sewe2000/stetris.git
+```
+2. Enter the directory
+```bash
+$ cd stetris
+```
+3. On Linux run stetris file. On Windows run stetris.exe
+4. Have fun ;)
+# Building instructions for GNU/Linux
 
 1. Clone this repository
 ```bash
